@@ -1,6 +1,6 @@
-# PCD - Aula 03
+# PCD - Aulas
 
-Arquivos da Aula 03: Colab, GitHub e Git.
+Arquivos da Aulas
 
 ## Autor
 Matheus Ledur
